@@ -67,7 +67,7 @@
    line-height: 24px;
 }
 .header {
-   background-image: url(Rectangle.png);
+   background-image: url(img/Rectangle.png);
    background-position: center;
    background-repeat: no-repeat;
    background-size: 100%;
@@ -123,7 +123,7 @@
   
 }
 .section-one__card-one {
-   background-image:url(Rectangle0.png);
+   background-image:url(img/Rectangle0.png);
    height: 396px;
    width: 396px;
    margin-top:25px;
@@ -134,14 +134,14 @@
    flex-direction: column;
 }
 .section-two__card-two {
-   background-image:url(card_one.png);
+   background-image:url(img/card_one.png);
    height: 396px;
    width: 396px;
    margin-top:25px;
    margin-right: 20px;
 }
 .section-tree__card-three {
-   background-image:url(card_three.png);
+   background-image:url(img/card_three.png);
    height: 396px;
    width: 396px;
    margin-top:25px;
@@ -217,7 +217,7 @@ h3 {
    border-radius: 2px;  
 }
 .two {
-   background-image: url(Kedu.png);
+   background-image: url(img/Kedu.png);
    background-position: center;
    background-repeat: no-repeat;
    background-size: 100%;
@@ -264,28 +264,28 @@ h3 {
    padding-bottom: 50px;  
 }
 .image-1 {
-   background-image:url(image-1.png);
+   background-image:url(img/image-1.png);
    height: 396px;
    width: 396px;
    margin-top:25px;
    margin-right: 20px;
 }
 .image-2 {
-   background-image:url(image-2.png);
+   background-image:url(img/image-2.png);
    height: 396px;
    width: 396px;
    margin-top:25px;
    margin-right: 20px;
 }
 .image-3 {
-   background-image:url(image-3.png);
+   background-image:url(img/image-3.png);
    height: 396px;
    width: 396px;
    margin-top:25px;
    margin-right: 20px;
 }
 .image-4 {
-   background-image:url(image-2.png);
+   background-image:url(img/image-2.png);
    height: 396px;
    width: 396px;
    margin-top:25px;
@@ -309,7 +309,7 @@ h3 {
    z-index: 1;
 } */
 button.owl-next {
-   background: white url(strelka.svg) no-repeat 50%;
+   background: white url(img/strelka.svg) no-repeat 50%;
    border-radius: 0 4px 0 0;
    bottom: auto;
    position: absolute;
@@ -325,7 +325,7 @@ button.owl-next {
    display: block;
 }
 .section-five {
-   background-image: url(picture1.png);
+   background-image: url(img/picture1.png);
    background-position: center;
    background-repeat: no-repeat;
    background-size: 100%;
@@ -530,7 +530,7 @@ li {
     max-height: 530px;
  }
  button.owl{
-   background: white url(strelka.svg) no-repeat 50%;
+   background: white url(img/strelka.svg) no-repeat 50%;
    position: absolute; 
    width: 30px;
    top: 50%;
@@ -570,7 +570,7 @@ li {
  .logo-louder {
     width: 400px;
     height: 400px;
-    background-image: url(image.jpg);
+    background-image: url(img/image.jpg);
     background-position: center center;
     margin-top: -30px;
     margin-left: -30px;

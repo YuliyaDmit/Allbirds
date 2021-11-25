@@ -608,3 +608,6 @@ li {
       opacity: 0;
    }
 }
+.secret {
+   border: 5px solid black;
+}
